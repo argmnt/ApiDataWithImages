@@ -83,6 +83,7 @@
                     </view>
                     <connections>
                         <outlet property="attackLbl" destination="utO-yd-Rdl" id="UU4-Op-DBI"/>
+                        <outlet property="attributeLbl" destination="Wsb-5j-bSj" id="hVU-dV-EjC"/>
                         <outlet property="imageView" destination="Ib8-yU-xLa" id="i1o-S4-isI"/>
                         <outlet property="legsLbl" destination="epU-Oe-AEL" id="6EM-Ug-yTh"/>
                         <outlet property="nameLbl" destination="Wsb-5j-bSj" id="dHB-BP-qrg"/>
